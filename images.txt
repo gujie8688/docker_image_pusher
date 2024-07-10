@@ -1,1 +1,1 @@
-TecoGAN
+thunil/TecoGAN
