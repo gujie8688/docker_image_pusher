@@ -1,2 +1,1 @@
-alpine
-actualbudget/actual-server:24.7.0
+TecoGAN
