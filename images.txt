@@ -1,2 +1,1 @@
-centos
-qBittorrent
+jeessy/ddns-go:latest
