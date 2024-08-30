@@ -1,1 +1,1 @@
-dat-ecosystem/dat
+dat-ecosystem
