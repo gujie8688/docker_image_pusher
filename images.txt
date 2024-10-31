@@ -1,1 +1,1 @@
-vnstat
+vnStat:2.12
